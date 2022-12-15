@@ -100,8 +100,6 @@ The hardware specifications for the 12bit pcb with dimensions of 23.5x43.5mm are
 ## PCB circuit Schematic 
 The PCB circuit schematic is available in PDF located in the folder "PCB Schematic"
 
-https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/tree/main/PCB%20Schematic
-
 ## PCB design files
 The PCB gerber files are located in the folder "gerber" and are ready to order online on any pcb fabrication store. (PCBWay, AllPCB, Eurocircuits, etc)
 <br>
@@ -109,7 +107,6 @@ The PCB gerber files are located in the folder "gerber" and are ready to order o
 ![](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/LDAD%20fron.png)
 ![](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/LDAD%20back.png)
 
-(November pcb revision)
 <br>
 <br>
 
