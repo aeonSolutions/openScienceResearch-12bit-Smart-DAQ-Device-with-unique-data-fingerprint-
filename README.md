@@ -13,6 +13,14 @@
 </a>
 ![](https://views.whatilearened.today/views/github/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo.svg)
 
+<br>
+
+<p align="right">
+    sponsored by <br>
+    <a href="https://be.eurocircuits.com/">
+       <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/raw/main/media/eurocircuits.png">
+    </a>
+</p>
 
 # Open Science Research 12bit Smart DAQ Device with unique data fingerprint
 This is the repository for the 12bit Smart DAQ Device with unique data fingerprint able to do experimental data upload to any data repository
@@ -148,7 +156,7 @@ Buy me a cup of coffee, a slice of pizza or a book to help me study, eat and thi
 ### Make a donation on Paypal
 Make a donation on paypal and get a TAX refund*.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/paypal_small.png)](http://paypal.me/mtpsilva)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png)](http://paypal.me/mtpsilva)
 
 
 ### Support all these open hardware projects and become a patreon  
