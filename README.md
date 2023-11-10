@@ -16,17 +16,13 @@
 <br>
 
 <p align="right">
-    sponsored by <br>
+    2nd place! Sponsored by <br>
     <a href="https://be.eurocircuits.com/">
        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/raw/main/media/eurocircuits.png">
     </a>
-</p>
-
-<p align="right">
-    2nd place <br>
     <a href="https://www.electromaker.io/project/view/how-to-setup-a-smart-daq-to-upload-live-experimental-data-to">
        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/electromaker_logo.png">
-    </a>
+    </a>  
 </p>
 
 # Open Science Research 12bit Smart DAQ Device with unique data fingerprint
